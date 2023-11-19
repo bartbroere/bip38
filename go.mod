@@ -1,4 +1,4 @@
-module bip38
+module github.com/bartbroere/bip38
 
 go 1.20
 
